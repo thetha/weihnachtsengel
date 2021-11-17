@@ -32,7 +32,7 @@ Farbnummer : 1800 (WILDES FEUER)
 Farbnummer : 1704 (APFEL IN ZUCKERKRUSTE)
 Farbnummer : 1346 (ZIMT)
 Farbnummer : 5415 (IRISCHES GRÜN)
-[](https://www.w6-wertarbeit.de/media/image/5a/b3/5d/weihnachtsengel-1.jpg.pagespeed.ce._1U-ZZHy24.jpg)
+![image](https://www.w6-wertarbeit.de/media/image/5a/b3/5d/weihnachtsengel-1.jpg.pagespeed.ce._1U-ZZHy24.jpg)
  
 
 Stickdatei: [weihnachtsengel.dst](https://github.com/thetha/weihnachtsengel/blob/main/weihnachtsengel.DST)

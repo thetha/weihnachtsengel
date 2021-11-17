@@ -6,6 +6,7 @@ Klicken Sie auf Code, dann Download als ZIP
 ![image](https://user-images.githubusercontent.com/13396762/142183385-92a034af-2600-493f-a99c-d8fec64015b8.png)
 
 # Weihnachtsengel als Baumschmuck - aus wasserlöslichem W6 Vlies hergestellt.
+![image](https://user-images.githubusercontent.com/13396762/142183655-a7884912-c0dd-48f1-88eb-faeb44214a87.png)
 
 Der gestickte W6-Weihnachtsengel lässt sich als wunderschöner Baumschmuck in den Weihnachtsbaum hängen oder kann als edle Adventsdekoration verwendet werden.
 Alternativ kann das gestickte Motiv auch als Mobile ins geschmückte Weihnachtsfenster gehängt werden. 
@@ -31,18 +32,18 @@ Farbnummer : 1800 (WILDES FEUER)
 Farbnummer : 1704 (APFEL IN ZUCKERKRUSTE)
 Farbnummer : 1346 (ZIMT)
 Farbnummer : 5415 (IRISCHES GRÜN)
+[](https://www.w6-wertarbeit.de/media/image/5a/b3/5d/weihnachtsengel-1.jpg.pagespeed.ce._1U-ZZHy24.jpg)
  
- 
-![image](https://user-images.githubusercontent.com/13396762/142183655-a7884912-c0dd-48f1-88eb-faeb44214a87.png)
 
-Stickdatei: [weihnachtsengel.dst] (https://github.com/thetha/weihnachtsengel/blob/main/weihnachtsengel.DST)
+Stickdatei: [weihnachtsengel.dst](https://github.com/thetha/weihnachtsengel/blob/main/weihnachtsengel.DST)
 
  
 ## Die Anleitung Schritt für Schritt 
 ### Arbeitsschritt Nr. 1
-Der Engel soll auf der Vorderseite und der Rückseite gleich aussehen. Aus diesem Grund zwingend den farblich gleichen Ober- und Unterfaden verwenden.
+Der Engel soll auf der Vorderseite und der Rückseite gleich aussehen. 
+Aus diesem Grund zwingend den farblich gleichen Ober- und Unterfaden verwenden.
+Es werden vier Lagen vom wasserlöslichen W6 Stickvlies gleichzeitig in den 10 cm x 10 cm Rahmen der W6 Stickeinheit trommelfest eingespannt. 
 
-Es werden vier bis fünf Lagen vom wasserlöslichen W6 Stickvlies gleichzeitig in den 10 cm x 10 cm Rahmen der W6 Stickeinheit trommelfest eingespannt. Vorteil: Das zu stickende Motiv wird in seiner Konsistenz fester und haltbarer.
 
 weihnachtsengel-2  
 

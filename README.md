@@ -5,13 +5,13 @@ Klicken Sie auf Code, dann Download als ZIP
 
 ![image](https://user-images.githubusercontent.com/13396762/142183385-92a034af-2600-493f-a99c-d8fec64015b8.png)
 
-Weihnachtsengel als Baumschmuck - aus wasserlöslichem W6 Vlies hergestellt.
+# Weihnachtsengel als Baumschmuck - aus wasserlöslichem W6 Vlies hergestellt.
 
 Der gestickte W6-Weihnachtsengel lässt sich als wunderschöner Baumschmuck in den Weihnachtsbaum hängen oder kann als edle Adventsdekoration verwendet werden.
+Alternativ kann das gestickte Motiv auch als Mobile ins geschmückte Weihnachtsfenster gehängt werden. 
+Auch als Geschenkeanhänger an den liebevoll verpackten Paketen ist er ein echter Blickfang.
 
-Alternativ kann das gestickte Motiv auch als Mobile ins geschmückte Weihnachtsfenster gehängt werden. Auch als Geschenkeanhänger an den liebevoll verpackten Paketen ist er ein echter Blickfang.
-
-Das benötigte Material
+## Das benötigte Material
 Eine W6 Nähmaschine sowie eine damit kompatible W6 Stickeinheit
 W6 WERTARBEIT Sticknadeln
 W6 WERTARBEIT Nähmaschinen Stickrahmen 10 x 10 cm

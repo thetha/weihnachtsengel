@@ -13,28 +13,39 @@ Alternativ kann das gestickte Motiv auch als Mobile ins geschmückte Weihnachtsf
 Auch als Geschenkeanhänger an den liebevoll verpackten Paketen ist er ein echter Blickfang.
 
 ## Das benötigte Material
+
 Eine W6 Nähmaschine sowie eine damit kompatible W6 Stickeinheit
-W6 WERTARBEIT Sticknadeln
-W6 WERTARBEIT Nähmaschinen Stickrahmen 10 x 10 cm
+
+[W6 WERTARBEIT TITANIUM Sticknadeln ( Stärke 80)](https://www.w6-wertarbeit.de/zubehoer/nadeln/naehmaschinennadeln/w6-naehmaschinennadel-titanium-75-90-5-nadeln)
+
+[W6 WERTARBEIT Nähmaschinen Stickrahmen 10 x 10 cm](https://www.w6-wertarbeit.de/sticken/stickmaschinen-zubehoer/w6-naehmaschinen-stickrahmen-10-x-10-cm)
+
 W6 WERTARBEIT Näh- und Stickgarn
-W6 WERTARBEIT Stickvlies wasserlöslich 
-W6 WERTARBEIT Spezial-Stickschere
+
+[Farbnummer : 0704 (GOLD)](https://www.w6-wertarbeit.de/garne/overlockgarn/w6-naeh-und-stickgarn-farb-nr.-0704-1.000-m)
+
+[Farbnummer : 0821 (HONIG GOLD)](https://www.w6-wertarbeit.de/garne/overlockgarn/w6-naeh-und-stickgarn-farb-nr.-0821-1.000-m)
+
+[Farbnummer : 3971 (SILBER)](https://www.w6-wertarbeit.de/garne/overlockgarn/w6-naeh-und-stickgarn-farb-nr.-3971-1.000-m)
+
+[Farbnummer : 1800 (WILDES FEUER)](https://www.w6-wertarbeit.de/garne/overlockgarn/w6-naeh-und-stickgarn-farb-nr.-1800-1.000-m)
+
+[Farbnummer : 1704 (APFEL IN ZUCKERKRUSTE)](https://www.w6-wertarbeit.de/garne/overlockgarn/w6-naeh-und-stickgarn-farb-nr.-1704-1.000-m)
+
+[Farbnummer : 1346 (ZIMT)](https://www.w6-wertarbeit.de/garne/overlockgarn/w6-naeh-und-stickgarn-farb-nr.-1346-1.000-m)
+
+[Farbnummer : 5415 (IRISCHES GRÜN)](https://www.w6-wertarbeit.de/garne/overlockgarn/w6-naeh-und-stickgarn-farb-nr.-5415-1.000-m)
+
+[W6 WERTARBEIT Stickvlies wasserlöslich](https://www.w6-wertarbeit.de/naehen/naehmaschinen-zubehoer/w6-naehmaschinen-stickvlies-mittelschwer-und-wasserloeslich) 
+
+[W6 WERTARBEIT Spezial-Stickschere](https://www.w6-wertarbeit.de/zubehoer/naehscheren/w6-naehmaschinen-spezial-stickschere)
+
 Einen Pflanzensprüher / Wäschesprenger zum Lösen des wasserlöslichen W6 Stickvlieses
+
 Zwei saubere und trockene Handtücher zum Fixieren des gestickten Motives
- 
 
-Wir empfehlen folgende weihnachtliche W6 Näh- und Stickgarne für die Erstellung des Weihnachtsengels:
-
-Farbnummer : 0704 (GOLD)
-Farbnummer : 0821 (HONIG GOLD)
-Farbnummer : 3971 (SILBER)
-Farbnummer : 1800 (WILDES FEUER)
-Farbnummer : 1704 (APFEL IN ZUCKERKRUSTE)
-Farbnummer : 1346 (ZIMT)
-Farbnummer : 5415 (IRISCHES GRÜN)
 ![image](https://www.w6-wertarbeit.de/media/image/5a/b3/5d/weihnachtsengel-1.jpg.pagespeed.ce._1U-ZZHy24.jpg)
  
-
 Stickdatei: [weihnachtsengel.dst](https://github.com/thetha/weihnachtsengel/blob/main/weihnachtsengel.DST)
 
  
@@ -45,9 +56,9 @@ Aus diesem Grund zwingend den farblich gleichen Ober- und Unterfaden verwenden.
 Es werden vier Lagen vom wasserlöslichen W6 Stickvlies gleichzeitig in den 10 cm x 10 cm Rahmen der W6 Stickeinheit trommelfest eingespannt. 
 
 
-weihnachtsengel-2  
+![image](https://www.w6-wertarbeit.de/media/image/79/eb/f8/weihnachtsengel-2.jpg.pagespeed.ce.OlHgDxo5wM.jpg)
 
-Arbeitsschritt Nr. 2
+### Arbeitsschritt Nr. 2
 Die Fadenspannung der W6 Nähmaschine um ein bis zwei Punkte reduzieren.
 
 Arbeitsschritt Nr. 3 

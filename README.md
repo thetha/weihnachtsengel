@@ -102,10 +102,8 @@ Ein paar Stunden warten, bis das Motiv zu hundert Prozent trocken ist.
 ### W6 Tipp zum Sticken:
 Um das wasserlösliche Stickvlies optimal auszunutzen, sollten mehrere Stickmotive in einem einzigen Stickrahmen positioniert werden.
 
-Fertig
-
 ![image](https://www.w6-wertarbeit.de/media/image/0a/bf/0c/weihnachtsengel-7.jpg.pagespeed.ce.iOUXrTSqGg.jpg)
 
- 
+ ## Fertig
 
  

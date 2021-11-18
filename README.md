@@ -60,20 +60,22 @@ Es werden vier Lagen vom wasserlöslichen W6 Stickvlies gleichzeitig in den 10 c
 
 ### Arbeitsschritt Nr. 2
 Die Fadenspannung der W6 Nähmaschine um ein bis zwei Punkte reduzieren.
+Bei der EU-5 keine Änderung in der Einstellungen
+
+Bei der Eu-7 Reduktion der kleinen Stichte unter 0.4mm auf 0.00mm stellen.
+Drücken Sie auf den Schraubenschlüssel in dem Hauptmenü, und Reduzieren Sie die rechte Zahl auf 0.00mm
 
 Arbeitsschritt Nr. 3 
 Die Stickdatei mit der W6 Stickeinheit sticken.
 
-weihnachtsengel-3 
+![image](https://www.w6-wertarbeit.de/media/image/3b/25/95/weihnachtsengel-3.jpg.pagespeed.ce.gKuJ_rtbLO.jpg)
 
 Arbeitsschritt Nr. 4
 Das gestickte wasserlösliche Motiv vorsichtig aus dem W6 Stickrahmen herausnehme und die Umrandung großzügig ausschneiden.
 
-weihnachtsengel-4 
+![image](https://www.w6-wertarbeit.de/media/image/9b/12/14/weihnachtsengel-4.jpg.pagespeed.ce.QccXy4029U.jpg)
 
- 
-
-weihnachtsengel-5 
+![image](https://www.w6-wertarbeit.de/media/image/b4/31/4e/weihnachtsengel-5.jpg.pagespeed.ce.LGL2eqlTqj.jpg)
 
 Das gestickte Motiv auf ein trockenes, sauberes Handtuch legen.
 
@@ -83,8 +85,7 @@ Das Motiv mit ein wenig kaltem Wasser besprühen.
 
 Das wasserlösliche W6 Vlies löst sich auf. Zurück bleibt das gestickte Motiv.
 
-weihnachtsengel-6
-
+![image](https://www.w6-wertarbeit.de/media/image/90/3a/a7/weihnachtsengel-6.jpg.pagespeed.ce.26woyQtdcl.jpg)
 Bildunterschrift: Die zwei roten Engel sind bereits fertiggestellt, der goldene Engel muss noch mit kaltem Wasser besprüht werden.
 
 Das gestickte Motiv mit ein wenig Zewa-Papier oder einer nicht-färbenden Papierserviette vorsichtig abtupfen.
@@ -101,10 +102,9 @@ Ein paar Stunden warten, bis das Motiv zu hundert Prozent trocken ist.
 W6 Tipp zum Sticken : Um das wasserlösliche Stickvlies optimal auszunutzen, sollten mehrere Stickmotive in einem einzigen Stickrahmen positioniert werden.
 
 Fertig
-weihnachtsengel-7 
+
+![image](https://www.w6-wertarbeit.de/media/image/0a/bf/0c/weihnachtsengel-7.jpg.pagespeed.ce.iOUXrTSqGg.jpg)
 
  
-
-weihnachtsengel  
 
  

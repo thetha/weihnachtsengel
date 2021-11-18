@@ -90,7 +90,7 @@ Bildunterschrift: Die zwei roten Engel sind bereits fertiggestellt, der goldene 
 
 Das gestickte Motiv mit ein wenig Zewa-Papier oder einer nicht-färbenden Papierserviette vorsichtig abtupfen.
 
-Arbeitsschritt Nr. 5
+## Arbeitsschritt Nr. 5
 Das gestickte Motiv auf ein sauberes und trockenes Baumwolltuch legen.
 
 Die Form evtl. nachformen, falls das Motiv sich verzieht oder einrollt. Die Oberseite des gestickten Motives jetzt mit einem sauberen und trockenen Handtuch zudecken.
@@ -99,7 +99,8 @@ Ein dickes Buch zum Beschweren auf die Handtücher mit dem Motiv legen.
 
 Ein paar Stunden warten, bis das Motiv zu hundert Prozent trocken ist. 
 
-W6 Tipp zum Sticken : Um das wasserlösliche Stickvlies optimal auszunutzen, sollten mehrere Stickmotive in einem einzigen Stickrahmen positioniert werden.
+### W6 Tipp zum Sticken:
+Um das wasserlösliche Stickvlies optimal auszunutzen, sollten mehrere Stickmotive in einem einzigen Stickrahmen positioniert werden.
 
 Fertig
 
